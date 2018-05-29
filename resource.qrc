@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>predict.png</file>
+        <file>file-open.png</file>
+    </qresource>
+</RCC>
